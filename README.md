@@ -34,20 +34,20 @@ The website is designed with a **clean UI, responsive layout, and real-world bus
 coffee-website/
 │
 ├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Hero.jsx
-│ │ ├── About.jsx
-│ │ ├── Menu.jsx
-│ │ ├── Features.jsx
-│ │ ├── Booking.jsx
-│ │ └── Footer.jsx
-│ │
-│ ├── assets/
-│ │ ├── images & icons
-│ │
-│ ├── App.jsx
-│ └── main.jsx
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Menu.jsx
+│   │   ├── Features.jsx
+│   │   ├── Booking.jsx
+│   │   └── Footer.jsx
+│   │
+│   ├── assets/
+│   │   ├── images & icons
+│   │
+│   ├── App.jsx
+│   └── main.jsx
 │
 ├── public/
 ├── package.json
